@@ -1,8 +1,11 @@
 body {
 
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'DM Sans', ExtraLight;
     font-weight: 200;
+    font-family:'DM Sans', Medium;
+    font-weight: 500;
 }
+
 .container {
     width: 80%;
     margin: auto;
@@ -15,10 +18,7 @@ header::after {
     content: ' ';
     clear: both
 }
-.logo {
-    float: left;
 
-}
 nav {
     float: right
     ;
@@ -42,3 +42,4 @@ nav a {
 nav a:hover {
     color: #000;
 }
+p {font-family: 'DM Sans',Light}
