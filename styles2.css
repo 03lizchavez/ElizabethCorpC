@@ -42,4 +42,15 @@ nav a {
 nav a:hover {
     color: #000;
 }
-p {font-family: 'DM Sans',Light}
+p {
+    font-family: 'DM Sans', Medium;
+}
+div {
+    
+    font-family: 'DM Sans', Medium;
+    font-size: 20px;
+    line-height: 2em;
+    float: right;
+}
+
+
